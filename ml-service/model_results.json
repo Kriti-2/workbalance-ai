@@ -1,0 +1,113 @@
+{
+  "Logistic Regression": {
+    "accuracy": 1.0,
+    "cv_accuracy": 1.0,
+    "report": {
+      "High": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 38.0
+      },
+      "Low": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 90.0
+      },
+      "Medium": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 72.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 200.0
+      }
+    }
+  },
+  "Decision Tree": {
+    "accuracy": 0.995,
+    "cv_accuracy": 0.998,
+    "report": {
+      "High": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 38.0
+      },
+      "Low": {
+        "precision": 1.0,
+        "recall": 0.9888888888888889,
+        "f1-score": 0.994413407821229,
+        "support": 90.0
+      },
+      "Medium": {
+        "precision": 0.9863013698630136,
+        "recall": 1.0,
+        "f1-score": 0.993103448275862,
+        "support": 72.0
+      },
+      "accuracy": 0.995,
+      "macro avg": {
+        "precision": 0.9954337899543378,
+        "recall": 0.9962962962962963,
+        "f1-score": 0.9958389520323637,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.9950684931506849,
+        "recall": 0.995,
+        "f1-score": 0.9950032748988633,
+        "support": 200.0
+      }
+    }
+  },
+  "Random Forest": {
+    "accuracy": 1.0,
+    "cv_accuracy": 1.0,
+    "report": {
+      "High": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 38.0
+      },
+      "Low": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 90.0
+      },
+      "Medium": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 72.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 200.0
+      }
+    }
+  }
+}
